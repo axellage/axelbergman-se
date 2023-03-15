@@ -1,0 +1,37 @@
+:root body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.content-row {
+  padding: 1rem 0;
+}
+
+.name {
+  font-size: 2rem;
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.description {
+  font-size: 1.125rem;
+  font-weight: 300;
+  line-height: 1.5;
+  text-align: center;
+
+}
+
+.chalmers-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.chalmers-link:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}

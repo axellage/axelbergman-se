@@ -1,0 +1,23 @@
+.topbar-container {
+    background-color: #222;
+}
+
+.title {
+    color: #fff;
+    margin-left: 10px;
+}
+
+.profile-picture {
+    height: 40px;
+    width: 40px;
+}
+
+.nav-link {
+    color: #fff;
+    margin-left: 15px;
+}
+
+.nav-link:hover {
+    color: #ccc;
+    text-decoration: none;
+}
